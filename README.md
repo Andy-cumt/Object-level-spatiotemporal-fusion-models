@@ -6,6 +6,8 @@ In addition, an object-level hybrid spatiotemporal fusion method (OL-HSTFM) were
 
 Please double-click OLfusionv1.1.exe to install OL-fusionAPP and MATLAB Runtime version 9.9 (R2020b). Make sure you are connected to the network and anti-virus software (e.g., 360) is turned off during installation.
 
+OL-STARFM can run on Google Earth engine:https://code.earthengine.google.com/603620173c9f19f17771eaf0652640fc
+
 D. Guo, W. Shi, H. Zhang and M. Hao, "A Flexible Object-Level Processing Strategy to Enhance the Weight Function-Based Spatiotemporal Fusion Method," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-11, 2022, Art no. 4414811, doi: 10.1109/TGRS.2022.3212474.
 
 D. Guo and W. Shi, "Object-Level Hybrid Spatiotemporal Fusion: Reaching a Better Trade-Off Among Spectral Accuracy, Spatial Accuracy and Efficiency," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2023.3310195.
